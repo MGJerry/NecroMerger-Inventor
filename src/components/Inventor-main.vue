@@ -200,7 +200,7 @@
           {name: "Store-o ", requirement: 75000},
         ],
         [
-          {id: 101, title: "Seasoning Experiment", desc:"Get more Food when feeding the Devourer.", image:"Experiments_101.png", levels: [
+          {id: 101, title: "Seasoning Experiment II", desc:"Get more Food when feeding the Devourer. (Includes Guzzlers)", image:"Experiments_101.png", levels: [
             new UpgradeLevel(100000, "x1 » x5"),
             new UpgradeLevel(500000, "x5 » x10"),
             new UpgradeLevel(1000000, "x10 » x15"),
@@ -211,7 +211,7 @@
             new UpgradeLevel(20000000, "x35 » x40"),
             new UpgradeLevel(50000000, "x40 » x50"),
           ]},
-          {id: 102, title: "Strength Experiment", desc:"Increase all Damage.", image:"Experiments_102.png", levels: [
+          {id: 102, title: "Strength Experiment II", desc:"Increase all Damage. (Includes Cherubs)", image:"Experiments_102.png", levels: [
             new UpgradeLevel(100000, "x1 » x1.2"),
             new UpgradeLevel(500000, "x1.2 » x1.4"),
             new UpgradeLevel(1000000, "x1.4 » x1.6"),
@@ -222,7 +222,7 @@
             new UpgradeLevel(20000000, "x2.4 » x2.6"),
             new UpgradeLevel(50000000, "x2.6 » x3"),
           ]},
-          {id: 103,  title: "Taste Experiment", desc:"Get more Food from Cravings.", image:"Experiments_103.png", levels: [
+          {id: 103,  title: "Taste Experiment II", desc:"Get more Food from Cravings.", image:"Experiments_103.png", levels: [
             new UpgradeLevel(200000, "x1 » x2"),
             new UpgradeLevel(1000000, "x2 » x3"),
             new UpgradeLevel(3000000, "x3 » x4"),
@@ -233,7 +233,7 @@
             new UpgradeLevel(50000000, "x8 » x9"),
             new UpgradeLevel(100000000, "x9 » x10"),
           ]},
-          {id: 104, title: "Capacity Experiment", desc:"Increase Mana, Slime and Darkness Caps.", image:"Experiments_104.png", levels: [
+          {id: 104, title: "Capacity Experiment II", desc:"Increase Mana, Slime and Darkness Caps.", image:"Experiments_104.png", levels: [
             new UpgradeLevel(200000, "x1 » x1.1"),
             new UpgradeLevel(1000000, "x1.1 » x1.2"),
             new UpgradeLevel(3000000, "x1.2 » x1.3"),
